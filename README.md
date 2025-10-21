@@ -182,4 +182,6 @@ Add More Profile Information: Add more columns to the users table (e.g., email, 
 Improve User Feedback: Use session "flash messages" to show success or error messages across different pages (e.g., "You have been logged out successfully" shown on the login page after a redirect).
 
 #Author
+
+
 Haitham Al-Dabbi
