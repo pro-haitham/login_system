@@ -1,16 +1,26 @@
 # login_system
 
 /login_system
+
 │
 ├── includes/
+
 │ ├── db.php # Handles the database connection.
+
 │ └── functions.php # Placeholder for reusable functions (currently empty).
+
 │
+
 ├── dashboard.php # A protected page accessible only to logged-in users.
+
 ├── login.php # The user login page and authentication handler.
+
 ├── logout.php # Destroys the user session to log them out.
+
 ├── signup.php # Intended for user registration (currently contains logout logic).
+
 └── style.css # For CSS styling (currently empty).
+
 File Purposes
 includes/db.php: Establishes a connection to the MySQL database using defined credentials. It's included in any file that needs to interact with the database.
 
