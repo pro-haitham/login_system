@@ -1,6 +1,6 @@
 <?php
-include 'db.php'; //connect to the database
-
+include 'includes/db.php'; //connect to the database
+include 'includes/functions.php';
 $message = ""; //to show errors or success
 
 if($_SERVER["REQUEST_METHOD"] == "POST"){

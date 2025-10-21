@@ -1,7 +1,7 @@
 <?php
 session_start();
-include 'db.php'; // connect to database
-
+include 'includes/db.php'; // connect to database
+include 'includes/functions.php';
 $message = "";
 
 // Initialize login attempts for rate limiting
