@@ -180,3 +180,6 @@ Use functions.php: Move repetitive logic into functions.php. For example, a func
 Add More Profile Information: Add more columns to the users table (e.g., email, first_name, last_name) and update the signup form and dashboard to use them.
 
 Improve User Feedback: Use session "flash messages" to show success or error messages across different pages (e.g., "You have been logged out successfully" shown on the login page after a redirect).
+
+#Author
+Haitham Al-Dabbi
